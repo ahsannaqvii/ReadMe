@@ -1,5 +1,7 @@
 
-[(https://www.google.com/imgres?imgurl=https%3A%2F%2Ft3.ftcdn.net%2Fjpg%2F03%2F18%2F60%2F62%2F360_F_318606217_Hk8jo2MVoI33SQOkYrfOF929J7JgIP0P.jpg&imgrefurl=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3Dfrontend%2Bdeveloper&tbnid=H0WfhQyid9n6uM&vet=12ahUKEwjSzL-O1KH8AhVmUaQEHTt-AvYQMygSegUIARCJAg..i&docid=yaOY78cnYRn2cM&w=640&h=360&q=Frontend%20developer&ved=2ahUKEwjSzL-O1KH8AhVmUaQEHTt-AvYQMygSegUIARCJAg)](https://rishavchanda.io)
+![fernando-hernandez-JdoofvUDUwc-unsplash](https://user-images.githubusercontent.com/29493186/210088705-5ed2d7e1-3e47-4076-8557-ba4bae2bf788.jpg)
+
+
 
 <h1 align="center">Hi 👋, I'm Ahsan Naqvi</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
