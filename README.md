@@ -1,4 +1,4 @@
-[![MasterHead](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)](https://rishavchanda.io)
+[![MasterHead](https://unsplash.com/photos/_s2X70XPu6M)](https://rishavchanda.io)
 
 <h1 align="center">Hi 👋, I'm Ahsan Naqvi</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
