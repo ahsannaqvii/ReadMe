@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahsan Naqvi</h1>
-<h3 align="center">A passionate frontend developer from Karachi,Pakistan</h3>
+<h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
 <img align="right" alt="Code" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcftWkTmiwQhCdatbuYZUOAbXQDnMZcPwQQ&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsannaqvii&label=Profile%20views&color=0e75b6&style=flat" alt="ahsannaqvii" /> </p>
 
