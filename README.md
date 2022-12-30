@@ -3,7 +3,6 @@
 <img align="right" alt="Code" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTUcftWkTmiwQhCdatbuYZUOAbXQDnMZcPwQQ&usqp=CAU">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsannaqvii&label=Profile%20views&color=0e75b6&style=flat" alt="ahsannaqvii" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ahsannaqvii" alt="ahsannaqvii" /></a> </p>
 
 - 🔭 I’m currently working on [FindHer](https://github.com/ahsannaqvii/FindHer)
 
