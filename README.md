@@ -1,5 +1,3 @@
-<iframe src="https://giphy.com/embed/L1R1tvI9svkIWwpVYr" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-computer-technology-coding-L1R1tvI9svkIWwpVYr">via GIPHY</a></p>
-
 ![abcd3](https://user-images.githubusercontent.com/29493186/210089215-731704b3-bae2-4445-9fe4-99388452cf96.jpg)
 
 
