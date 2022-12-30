@@ -1,5 +1,4 @@
-![abcd3](https://user-images.githubusercontent.com/29493186/210089215-731704b3-bae2-4445-9fe4-99388452cf96.jpg)
-
+![lautaro-andreani-UYsBCu9RP3Y-unsplash](https://user-images.githubusercontent.com/29493186/210090455-7726853c-81ef-4e6e-9d76-d1b09472992f.jpg)
 
 <h1 align="center">Hi 👋, I'm Ahsan Naqvi</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
