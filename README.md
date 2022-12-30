@@ -1,4 +1,4 @@
-[![MasterHead](![fernando-hernandez-JdoofvUDUwc-unsplash](https://user-images.githubusercontent.com/29493186/210087367-375ac89c-0460-4249-bf48-aef16e1c50c0.jpg))](https://rishavchanda.io)
+![fernando-hernandez-JdoofvUDUwc-unsplash](https://user-images.githubusercontent.com/29493186/210087367-375ac89c-0460-4249-bf48-aef16e1c50c0.jpg)
 <h1 align="center">Hi 👋, I'm Ahsan Naqvi</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
