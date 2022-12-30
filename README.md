@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahsan Naqvi</h1>
 <h3 align="center">A passionate frontend developer from Karachi, Pakistan</h3>
-<img align="right" alt="Code" width="400" src="[https://dribbble.com/shots/6139167-Avento-marketing](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Ftags%2Fcomputer_gif&psig=AOvVaw0_u-BP1IpGeMfp5xRO51hN&ust=1672500146765000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCJCHstvSofwCFQAAAAAdAAAAABAJ)">
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif")
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsannaqvii&label=Profile%20views&color=0e75b6&style=flat" alt="ahsannaqvii" /> </p>
 
