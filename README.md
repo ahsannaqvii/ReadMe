@@ -1,5 +1,6 @@
 
 ![abcd3](https://user-images.githubusercontent.com/29493186/210089215-731704b3-bae2-4445-9fe4-99388452cf96.jpg)
+<img align="right" alt="Coding" width="400" src="https://pin.it/5uMLPAh"/>
 
 
 <h1 align="center">Hi 👋, I'm Ahsan Naqvi</h1>
