@@ -1,6 +1,5 @@
 
-![abccd2](https://user-images.githubusercontent.com/29493186/210089151-03c8eb21-cb10-4873-afcb-9eec7539c85c.jpg)
-
+![abcd3](https://user-images.githubusercontent.com/29493186/210089215-731704b3-bae2-4445-9fe4-99388452cf96.jpg)
 
 
 <h1 align="center">Hi 👋, I'm Ahsan Naqvi</h1>
